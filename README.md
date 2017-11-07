@@ -1,2 +1,3 @@
 # hello-world
-First repository. Training GitHub
+
+I'm made of a lot of numbers.
