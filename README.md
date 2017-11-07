@@ -1,3 +1,3 @@
 # hello-world
-First repository. Training GitHub
-Brazilian, 23 years old.
+
+I'm made of a lot of numbers.
